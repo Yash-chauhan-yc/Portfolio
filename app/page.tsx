@@ -17,7 +17,7 @@ export default function Home() {
         />
       </div>
       <Image
-        src="/assets/top-left-img.png"
+        src="../public/assets/top-left-img.png"
         alt="paint"
         width={230}
         height={230}
@@ -35,7 +35,7 @@ export default function Home() {
         </p>
         <div className="relative w-[100px] h-[100px] md:w-[160px] md:h-[160px] mt-5">
           <Image
-            src="/assets/rounded-text.png"
+            src="../public/assets/rounded-text.png"
             alt="projects"
             width={160}
             height={160}
