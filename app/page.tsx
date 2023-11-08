@@ -9,7 +9,8 @@ export default function Home() {
       </div>
       <div className="absolute right-10 md:right-40 bottom-0 z-[10]">
         <Image
-          src="/assets/MoustacheMan.png"
+{/*           src="/assets/MoustacheMan.png" */}
+          src={`${prefix}/MoustacheMan.png`}
           alt="MoustacheMan"
           width={560}
           height={560}
