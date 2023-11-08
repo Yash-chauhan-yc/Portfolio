@@ -13,17 +13,17 @@ import {
 export const Socials = [
   {
     name: "LinkedIn",
-    src: "/assets/linkedin.svg",
+    src: "../public/assets/linkedin.svg",
     link: "https://www.linkedin.com/in/yashchauhan-yc",
   },
   {
     name: "Github",
-    src: "/assets/github.svg",
+    src: "../public/assets/github.svg",
     link: "https://github.com/Yash-chauhan-yc?tab=repositories",
   },
   {
     name: "Outlook",
-    src: "/assets/outlook.svg",
+    src: "../public/assets/outlook.svg",
     link: "mailto:yash.chauhan.yc@outlook.com",
   },
 ];
@@ -48,22 +48,22 @@ export const NavLinks = [
 
 export const ProImages = [
   {
-    src: "/assets/projects1/01.png",
+    src: "../public/assets/projects1/01.png",
     link: "https://yash-chauhan-yc.github.io/React_TourAndTravel/",
     title: "React"
   },
   {
-    src: "/assets/projects1/03.jpg",
+    src: "../public/assets/projects1/03.jpg",
     link: "https://github.com/Yash-chauhan-yc/Automatic-e-chalan",
     title: "Machine Learning"
   },
   {
-    src: "/assets/projects1/05.png",
+    src: "../public/assets/projects1/05.png",
     link: "https://github.com/Yash-chauhan-yc/DYC_token",
     title: "Blockchain"
   },
   {
-    src: "/assets/projects1/06.png",
+    src: "../public/assets/projects1/06.png",
     link: "https://yash-chauhan-yc.github.io/RealEstate-React/",
     title: "React"
   },
@@ -71,16 +71,16 @@ export const ProImages = [
 
 export const ProImages2 = [
   {
-    src: "/assets/projects1/05.png",
+    src: "../public/assets/projects1/05.png",
   },
   {
-    src: "/assets/projects1/05.png",
+    src: "../public/assets/projects1/05.png",
   },
   {
-    src: "/assets/projects1/05.png",
+    src: "../public/assets/projects1/05.png",
   },
   {
-    src: "/assets/projects1/05.png",
+    src: "../public/assets/projects1/05.png",
   },
 ];
 
