@@ -15,7 +15,7 @@ const Page = () => {
       </div>
       <div className='absolute -left-36 bottom-5 rotate-12 animate-pulse duration-75'>
         <Image
-          src="/assets/bulb.png"
+          src="../public/assets/bulb.png"
           alt='bulb'
           width={260}
           height={260}
