@@ -1,6 +1,5 @@
 import Particle from "@/components/Particle";
 import Image from "next/image";
-import {img1} from "../public/assets/MoustacheMan.png";
 
 export default function Home() {
   return (
@@ -10,7 +9,7 @@ export default function Home() {
       </div>
       <div className="absolute right-10 md:right-40 bottom-0 z-[10]">
         <Image
-          src={img1}
+          src="../public/assets/MoustacheMan.png"
           alt="MoustacheMan"
           width={560}
           height={560}
